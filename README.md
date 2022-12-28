@@ -4,6 +4,8 @@
 
 ## Prerequisites
 -pytorch 1.1.0
+-python 3.7
+-cudatoolkit 10.0
 
 Usage
 --------------------------
@@ -13,7 +15,9 @@ Usage
 
 ### Download models 
 1. Please download the model trained by authors. [BaiDuYun]：https://pan.baidu.com/s/1g3yKi_qz16USF4rKnLLXEA?pwd=zqg3 提取码：zqg3 
-2. Please download the pre-trained model. Put it into /EATtracker/pretrain/.
+2. Please download the pre-trained model. Put it into /EATtracker/pretrain/. [BaiDuYun]：https://pan.baidu.com/s/1VgN-o1yVkOMD9ptDy0qT6w?pwd=8dg0 
+提取码：8dg0 
+
 
 ### Test
 1. run the './tracking/test_oceanplus.py'.
