@@ -1,3 +1,6 @@
-##Edge-aware Object Pixel-level Representation Tracking
+## Edge-aware Object Pixel-level Representation Tracking
 
 ###### This is a PyTorch implementation of our proposed EATtracker. 
+
+## Prerequisites
+-pytorch 1.1.0
