@@ -7,7 +7,11 @@
 
 Usage
 --------------------------
-### Download models
+### Download Datasets
+1. Download the youtube-vos dataset, put it into /EATtracker/data/.
+2. Download the DAVIS dataset, put it into /EATtracker/dataset/.
+
+### Download models 
 1. Please download the model.
 
 ### Test
