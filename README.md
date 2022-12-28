@@ -4,7 +4,9 @@
 
 ## Prerequisites
 -pytorch 1.1.0
+
 -python 3.7
+
 -cudatoolkit 10.0
 
 Usage
