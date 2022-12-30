@@ -26,6 +26,7 @@ Usage
 ### Train 
 1. run the './tracking/train_oceanplus_wyt.py'.
 
+Copyright(c) 2022 Jing Liu
 ```
 If you reference this paper, please cite the following publication:
 Peiguang Jing, Zijian Huang, Jing Liu, Yating Wang, Jiexiao Yu,"Edge-aware object pixel-level representation tracking", to appear in Journal of Visual Communication and Image Representation.
