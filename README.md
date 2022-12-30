@@ -12,13 +12,13 @@
 Usage
 --------------------------
 ### Download Datasets
-1. Download the youtube-vos dataset, put it into /EATtracker/data/.
-2. Download the DAVIS dataset, put it into /EATtracker/dataset/.
+1. Download the youtube-vos dataset, put it into /EATtracker/data/. [BaiDuYun]：https://pan.baidu.com/s/1WMB0q9GJson75QBFVfeH5A password: sf1m (SiamMask)
+2. Download the DAVIS dataset, put it into /EATtracker/dataset/. [BaiDuYun]：https://pan.baidu.com/s/1JTsumpnkWotEJQE7KQmh6A password: c9qp (SiamMask)
 
 ### Download models 
-1. Please download the model trained by authors. Put it into /EATtracker/tracking/snapshot/. [BaiDuYun]：https://pan.baidu.com/s/1g3yKi_qz16USF4rKnLLXEA?pwd=zqg3 提取码：zqg3 
+1. Please download the model trained by authors. Put it into /EATtracker/tracking/snapshot/. [BaiDuYun]：https://pan.baidu.com/s/1g3yKi_qz16USF4rKnLLXEA?pwd=zqg3 password:zqg3 
 2. Please download the pre-trained model. Put it into /EATtracker/pretrain/. [BaiDuYun]：https://pan.baidu.com/s/1VgN-o1yVkOMD9ptDy0qT6w?pwd=8dg0 
-提取码：8dg0 
+password:8dg0 
 
 
 ### Test
