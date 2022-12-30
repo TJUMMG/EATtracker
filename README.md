@@ -24,7 +24,7 @@ password:8dg0
 ### Test
 1. run the '/EATtracker/tracking/test_oceanplus.py'.
 
-The test results will be output under the /EATtracker/tracking/result/.
+    The test results will be output under the /EATtracker/tracking/result/.
 ### Train 
 1. run the '/EATtracker/tracking/train_oceanplus_wyt.py'.
 
