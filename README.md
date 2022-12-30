@@ -25,3 +25,8 @@ Usage
 1. run the './tracking/test_oceanplus.py'.
 ### Train 
 1. run the './tracking/train_oceanplus_wyt.py'.
+
+```
+If you reference this paper, please cite the following publication:
+Peiguang Jing, Zijian Huang, Jing Liu, Yating Wang, Jiexiao Yu,"Edge-aware object pixel-level representation tracking", to appear in Journal of Visual Communication and Image Representation.
+```
