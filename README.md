@@ -28,6 +28,8 @@ password:8dg0
 ### Train 
 1. run the '/EATtracker/tracking/train_oceanplus_wyt.py'.
 
+    The training generated model will be saved in /EATtracker/tracking/snapshot/.
+
 Copyright(c) 2022 Jing Liu
 ```
 If you reference this paper, please cite the following publication:
