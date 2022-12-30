@@ -2,6 +2,13 @@
 
 ###### This is a PyTorch implementation of our proposed EATtracker. 
 
+Copyright(c) 2022 Jing Liu
+```
+If you reference this paper, please cite the following publication:
+Peiguang Jing, Zijian Huang, Jing Liu, Yating Wang, Jiexiao Yu,"Edge-aware object pixel-level representation tracking", to appear in Journal of Visual Communication and Image Representation.
+```
+
+
 ## Prerequisites
 -pytorch 1.1.0
 
@@ -30,8 +37,3 @@ password:8dg0
 
     The training generated model will be saved in /EATtracker/tracking/snapshot/.
 
-Copyright(c) 2022 Jing Liu
-```
-If you reference this paper, please cite the following publication:
-Peiguang Jing, Zijian Huang, Jing Liu, Yating Wang, Jiexiao Yu,"Edge-aware object pixel-level representation tracking", to appear in Journal of Visual Communication and Image Representation.
-```
