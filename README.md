@@ -16,7 +16,7 @@ Usage
 2. Download the DAVIS dataset, put it into /EATtracker/dataset/.
 
 ### Download models 
-1. Please download the model trained by authors. [BaiDuYun]：https://pan.baidu.com/s/1g3yKi_qz16USF4rKnLLXEA?pwd=zqg3 提取码：zqg3 
+1. Please download the model trained by authors. Put it into /EATtracker/tracking/snapshot/. [BaiDuYun]：https://pan.baidu.com/s/1g3yKi_qz16USF4rKnLLXEA?pwd=zqg3 提取码：zqg3 
 2. Please download the pre-trained model. Put it into /EATtracker/pretrain/. [BaiDuYun]：https://pan.baidu.com/s/1VgN-o1yVkOMD9ptDy0qT6w?pwd=8dg0 
 提取码：8dg0 
 
